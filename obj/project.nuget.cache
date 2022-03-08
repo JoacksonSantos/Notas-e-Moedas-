@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "J/wjw6B9tMAZegXYMnSGMUoys0vBUlPQjR2LuYXR8RnnlIIuQC1eKSyUSZsBU3td3nWVMAU/TKkxI4G+My0Mkg==",
+  "success": true,
+  "projectFilePath": "/home/joackson/Desktop/C#/trsformar valor em notas e moedas/notas_e_moedas/notas_e_moedas.csproj",
+  "expectedPackageFiles": [
+    "/home/joackson/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.0/microsoft.aspnetcore.app.ref.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
